@@ -1,0 +1,13 @@
+body{
+    background-color: green;
+    color: white;
+} 
+.content {
+    width:680px;
+    margin: auto;
+    text-align: center;
+
+}
+.movie-list{
+   list-stile: none';
+}
